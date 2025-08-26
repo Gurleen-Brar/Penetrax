@@ -1,0 +1,12 @@
+[
+  {
+    "CVE ID": "CVE-2008-2079",
+    "Severity": "High",
+    "Description": "Privilege escalation vulnerability in MySQL 5.0.51a."
+  },
+  {
+    "CVE ID": "CVE-2007-2138",
+    "Severity": "Medium",
+    "Description": "Buffer overflow in PostgreSQL 8.3.0 may allow remote attackers to crash the database server."
+  }
+]

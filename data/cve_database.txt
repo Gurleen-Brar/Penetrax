@@ -1,0 +1,6 @@
+vsftpd,CVE-2011-2523,Critical,Backdoor vulnerability in vsftpd 2.3.4 allows remote attackers to gain a shell.
+OpenSSH,CVE-2008-0166,High,Weak key generation in OpenSSH may allow attackers to decrypt SSH traffic.
+Apache,CVE-2009-1890,Medium,Denial of service vulnerability in Apache 2.2.8 due to improper handling of requests.
+Samba,CVE-2007-2447,Critical,Remote code execution vulnerability in Samba allows attackers to execute arbitrary commands.
+MySQL,CVE-2008-2079,High,Privilege escalation vulnerability in MySQL 5.0.51a.
+PostgreSQL,CVE-2007-2138,Medium,Buffer overflow in PostgreSQL 8.3.0 may allow remote attackers to crash the database server.

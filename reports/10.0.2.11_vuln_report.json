@@ -1,0 +1,47 @@
+[
+    {
+        "CVE ID": "CVE-2011-2523",
+        "Severity": "Critical",
+        "Description": "Backdoor vulnerability in vsftpd 2.3.4 allows remote attackers to gain a shell."
+    },
+    {
+        "CVE ID": "CVE-2008-0166",
+        "Severity": "High",
+        "Description": "Weak key generation in OpenSSH may allow attackers to decrypt SSH traffic."
+    },
+    {
+        "CVE ID": "CVE-2009-1890",
+        "Severity": "Medium",
+        "Description": "Denial of service vulnerability in Apache 2.2.8 due to improper handling of requests."
+    },
+    {
+        "CVE ID": "CVE-2009-1890",
+        "Severity": "Medium",
+        "Description": "Denial of service vulnerability in Apache 2.2.8 due to improper handling of requests."
+    },
+    {
+        "CVE ID": "CVE-2009-1890",
+        "Severity": "Medium",
+        "Description": "Denial of service vulnerability in Apache 2.2.8 due to improper handling of requests."
+    },
+    {
+        "CVE ID": "CVE-2007-2447",
+        "Severity": "Critical",
+        "Description": "Remote code execution vulnerability in Samba allows attackers to execute arbitrary commands."
+    },
+    {
+        "CVE ID": "CVE-2007-2447",
+        "Severity": "Critical",
+        "Description": "Remote code execution vulnerability in Samba allows attackers to execute arbitrary commands."
+    },
+    {
+        "CVE ID": "CVE-2008-2079",
+        "Severity": "High",
+        "Description": "Privilege escalation vulnerability in MySQL 5.0.51a."
+    },
+    {
+        "CVE ID": "CVE-2007-2138",
+        "Severity": "Medium",
+        "Description": "Buffer overflow in PostgreSQL 8.3.0 may allow remote attackers to crash the database server."
+    }
+]
